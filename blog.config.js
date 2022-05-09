@@ -1,9 +1,9 @@
 const BLOG = {
-	title: '言理',
-	author: 'Reynard',
-	email: 'rey@pku.edu.cn',
-	link: 'https://quoth.win',
-	description: '道理讲通了就可以了',
+	title: '叁言',
+	author: 'Elizen',
+	email: 'elizen.me@gmail.com',
+	link: 'https://note.elizen.me',
+	description: '叁言贰拍',
 	lang: 'zh-CN',
 	appearance: 'auto', // ['light', 'dark', 'auto'],
 	font: 'serif', // ['sans-serif', 'serif']
@@ -17,7 +17,7 @@ const BLOG = {
 	showArchive: true,
 	autoCollapsedNavBar: true, // the automatically collapsed navigation bar
 	ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-	socialLink: 'https://twitter.com/craigaryhart',
+	socialLink: 'https://twitter.com/ElizenEarl',
 	seo: {
 		keywords: [ 'Blog', 'Website', 'Notion' ],
 		googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
@@ -50,7 +50,7 @@ const BLOG = {
 			repo: ''
 		},
 		cusdisConfig: {
-			appId: '283df307-90c2-453d-bab6-061e1ffdf445', // data-app-id
+			appId: '7a931dd5-abc3-46f8-9e45-9d22bfe84129', // data-app-id
 			host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
 			scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
 		}
